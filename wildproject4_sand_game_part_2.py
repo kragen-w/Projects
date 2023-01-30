@@ -1,3 +1,19 @@
+"""
+    This program allows the user to click and hold their mouse on the dudraw canvas, and if they click 
+    the "s" key, sand falls randomly around the curser, and will continue falling until it hits the bottom 
+    of the canvas or the top of a sand pile. If the user clicks "r", for rain, then rain will fall in a similar 
+    fashion. If the user clicks "f," for floor, then the user can draw lines that both the water and sand will 
+    interact with. The sand will fall in dunes when it falls above water, and act as wet sand when below water. 
+    When q is typed, the program ends. The user can costomize how large the rain drops and sand chunks are that fall,
+    and how far spread apart they are from the curser. 
+    Filename: wildproject3_sand_game_part_1.py
+    Author: Kragen Wild
+    Date: 1-22-23
+    Course: Programming II
+    Assignment: Project SandGame - Part 1
+    Collaborators: nada
+    Internet Source: nada
+"""
 from random import randint
 import dudraw
 
