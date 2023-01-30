@@ -6,9 +6,9 @@
     interact with. The sand will fall in dunes when it falls above water, and act as wet sand when below water. 
     When q is typed, the program ends. The user can costomize how large the rain drops and sand chunks are that fall,
     and how far spread apart they are from the curser. 
-    Filename: wildproject3_sand_game_part_1.py
+    Filename: wildproject4_sand_game_part_2.py
     Author: Kragen Wild
-    Date: 1-22-23
+    Date: 1-29-23
     Course: Programming II
     Assignment: Project SandGame - Part 1
     Collaborators: nada
